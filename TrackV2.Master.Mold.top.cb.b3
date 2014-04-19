@@ -52,6 +52,10 @@
         </rect>
       </objects>
     </layer>
+    <layer name="Layer1" color="127,255,0">
+      <ModificationCount>0</ModificationCount>
+      <objects />
+    </layer>
   </layers>
   <MachiningOptions>
     <Stock>
@@ -62,5 +66,5 @@
     <ToolProfile>Unspecified</ToolProfile>
   </MachiningOptions>
   <parts />
-  <ActiveLayer>Default</ActiveLayer>
+  <ActiveLayer>Layer1</ActiveLayer>
 </CADFile>
