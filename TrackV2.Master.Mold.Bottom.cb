@@ -215,7 +215,7 @@
           <primitive>
             <prim>3</prim>
           </primitive>
-          <TargetDepth state="Value">0.75</TargetDepth>
+          <TargetDepth state="Value">-0.75</TargetDepth>
           <DepthIncrement state="Default">0.015</DepthIncrement>
           <HoleDiameter state="Value">0.219</HoleDiameter>
           <DrillLeadOut state="Default">False</DrillLeadOut>
@@ -251,7 +251,7 @@
           <primitive>
             <prim>2</prim>
           </primitive>
-          <TargetDepth state="Value">0.75</TargetDepth>
+          <TargetDepth state="Value">-0.75</TargetDepth>
           <DepthIncrement state="Default">0.015</DepthIncrement>
           <HoleDiameter state="Value">0.219</HoleDiameter>
           <DrillLeadOut state="Default">False</DrillLeadOut>
@@ -287,7 +287,7 @@
           <primitive>
             <prim>4</prim>
           </primitive>
-          <TargetDepth state="Value">0.75</TargetDepth>
+          <TargetDepth state="Value">-0.75</TargetDepth>
           <DepthIncrement state="Default">0.015</DepthIncrement>
           <HoleDiameter state="Value">0.219</HoleDiameter>
           <DrillLeadOut state="Default">False</DrillLeadOut>
@@ -323,7 +323,7 @@
           <primitive>
             <prim>5</prim>
           </primitive>
-          <TargetDepth state="Value">0.75</TargetDepth>
+          <TargetDepth state="Value">-0.75</TargetDepth>
           <DepthIncrement state="Default">0.015</DepthIncrement>
           <HoleDiameter state="Value">0.219</HoleDiameter>
           <DrillLeadOut state="Default">False</DrillLeadOut>
